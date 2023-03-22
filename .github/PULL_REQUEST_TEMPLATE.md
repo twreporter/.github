@@ -1,8 +1,8 @@
-# Related Issue
-<!-- Description or reference to the related issue -->
+# Issue
+<!-- Description of the issue to sovle by this PR -->
 
-# Root Cause
-<!-- Description of the root cause of the issue -->
+# Notice
+<!-- Related notice or note for this PR -->
 
-# Solution
-<!-- Description of how did this PR solve this issue -->
+# Dependency
+<!-- Related dependency of this PR -->
